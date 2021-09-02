@@ -37,4 +37,6 @@ In this section we look at the different files inside the repository as well as 
 
 
 
+## Output
 
+![](https://i.imgur.com/Kt75Xmt.png)
