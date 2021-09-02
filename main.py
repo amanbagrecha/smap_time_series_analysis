@@ -13,7 +13,8 @@ import glob
 import pandas as pd
 from functools import reduce
 pd.options.plotting.backend = "plotly"
-
+import warnings
+warnings.filterwarnings('ignore')
 
 # Bengaluru Lat Lon bounds
 N_lat =  13.07
