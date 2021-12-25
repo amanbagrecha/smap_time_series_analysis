@@ -26,7 +26,7 @@ In this section we look at the different files inside the repository as well as 
 |---------|------------|
 |[`colab_wrapper.ipynb`](https://github.com/amanbagrecha/smap_time_series_analysis/blob/main/colab_wrapper.ipynb)<img width=90/>| Colab wrapper to download, run and visualise the time series python scripts|
 |[`main.py`](https://github.com/amanbagrecha/smap_time_series_analysis/blob/main/main.py) | contains the class and function to extract info from the downloaded files  |
-|[`download_SPL3.py`](https://github.com/amanbagrecha/smap_time_series_analysis/blob/main/download_SPL3.py)|script by NASA to download data. can be modified to change the date of download |
+|[`download_SPL3.py`](https://github.com/amanbagrecha/smap_time_series_analysis/blob/main/download_SPL3.py)|script by NASA to download data. can be modified to change the date of download for SMAP L3 |
 |`EASE2_M36km.lats.964x406x1.double` | EASE grid latidues to intersection with bounds|
 |`EASE2_M36km.lons.964x406x1.double`| EASE grid longitudes to intersection with bounds|
 
